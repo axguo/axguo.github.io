@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artifacts on Alicia Guo</title>
-    <link>https://aliciaguo.com/artifacts/</link>
+    <link>https://axguo.github.io/artifacts/</link>
     <description>Recent content in Artifacts on Alicia Guo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aliciaguo.com/artifacts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://axguo.github.io/artifacts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

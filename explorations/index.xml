@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Explorations on Alicia Guo</title>
-    <link>https://aliciaguo.com/explorations/</link>
+    <link>https://axguo.github.io/explorations/</link>
     <description>Recent content in Explorations on Alicia Guo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aliciaguo.com/explorations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/explorations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100</title>
-      <link>https://aliciaguo.com/explorations/design-100/</link>
+      <link>https://axguo.github.io/explorations/design-100/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/design-100/</guid>
+      <guid>https://axguo.github.io/explorations/design-100/</guid>
       <description> Do something 100 times. Then do it again. And again.
 100 rectangles x 3 iterations.
 Each new rectangle begins at the center of the previous, with the direction randomly chosen.     </description>
@@ -20,94 +20,94 @@ Each new rectangle begins at the center of the previous, with the direction rand
     
     <item>
       <title>Characters With Character</title>
-      <link>https://aliciaguo.com/explorations/characters/</link>
+      <link>https://axguo.github.io/explorations/characters/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/characters/</guid>
+      <guid>https://axguo.github.io/explorations/characters/</guid>
       <description> Text can be as expressive as art, music, or a well placed line in a poem. Chinese characters have the potential to dance on the page - the individual strokes can flow and be combined in many ways. Characters With Character imbues an embodiment of action and state into Chinese characters themselves and explores expression through form.
   点 (diǎn): point / dot / drop / speck  爆炸 (bào zhà): explosion / to explode  扩大 (kuò dà): to expand / to enlarge  融化 (róng huà): to melt / to thaw / to dissolve  拥挤 (yōng jǐ): crowded / to throng / congestion  故障 (gù zhàng): glitch/ malfunction  墨水 (mò shuǐ): ink  漩涡 (xuàn wō): swirl / vortex  像素 (xiàng sù): pixel              </description>
     </item>
     
     <item>
       <title>Daily(ish) Sketches</title>
-      <link>https://aliciaguo.com/explorations/wonder/</link>
+      <link>https://axguo.github.io/explorations/wonder/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/wonder/</guid>
+      <guid>https://axguo.github.io/explorations/wonder/</guid>
       <description> View all sketches here. See my  blog post about the process of making these daily sketches. An exploration into the wonders of creative coding and randomness in algorithmic art. Each sketch is a short study into a concept, a formula, or technique. Made with P5js.  some favorites (check out the rest!) butterfly lovers flow fields  birth of a loofah  parametric play  procedural trees   </description>
     </item>
     
     <item>
       <title>Growing Narratives</title>
-      <link>https://aliciaguo.com/explorations/tree-rings/</link>
+      <link>https://axguo.github.io/explorations/tree-rings/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/tree-rings/</guid>
+      <guid>https://axguo.github.io/explorations/tree-rings/</guid>
       <description>View Growing Narratives: Passage in Kernel Issue 2. “Dendrochronology, also called tree-ring dating, [is] the scientific discipline concerned with dating and interpreting past events…” 1
 Tree rings can tell us a lot about the passing of time, their shapes and thicknesses telling us stories of the past. They represent time, growth, and nourishment. Reading a cross section is, however, also an interpretation. The memories we carry can be written and rewritten depending on how we tell our stories - in sustaining our rings, we grow our own narratives.</description>
     </item>
     
     <item>
       <title>Hell is Overthinking</title>
-      <link>https://aliciaguo.com/explorations/hell/</link>
+      <link>https://axguo.github.io/explorations/hell/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/hell/</guid>
+      <guid>https://axguo.github.io/explorations/hell/</guid>
       <description> View Hell is Overthinking in Taper Issue #9 The 10th circle of hell must be that thought that won’t leave. Each refresh reveals a new intrusive, repetitive thought running in circles.    </description>
     </item>
     
     <item>
       <title>Life Plan</title>
-      <link>https://aliciaguo.com/explorations/life_plan/</link>
+      <link>https://axguo.github.io/explorations/life_plan/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/life_plan/</guid>
+      <guid>https://axguo.github.io/explorations/life_plan/</guid>
       <description>View Life Plan in Taper Issue #9 Folders are the perfect place to formulate a plan to accommodate all of the possibilities: how to proceed with a project, a future, a life. What other paths can be imagined? Choosing one folder enters you into a new realm, closed off to the other branches and revealing new directions. Can a life be planned out in your file explorer? Current work is on streamlining the creation process and including actual files.</description>
     </item>
     
     <item>
       <title>lolol</title>
-      <link>https://aliciaguo.com/explorations/template/</link>
+      <link>https://axguo.github.io/explorations/template/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/template/</guid>
+      <guid>https://axguo.github.io/explorations/template/</guid>
       <description> View TITLE in MAG whee
  Passage   </description>
     </item>
     
     <item>
       <title>Oil Painting</title>
-      <link>https://aliciaguo.com/explorations/intro_oil/</link>
+      <link>https://axguo.github.io/explorations/intro_oil/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/intro_oil/</guid>
+      <guid>https://axguo.github.io/explorations/intro_oil/</guid>
       <description> I took an intro oil painting class and fell in love with the freedom of the material. The malleability is amazing.    </description>
     </item>
     
     <item>
       <title>Polanimation</title>
-      <link>https://aliciaguo.com/explorations/polanimations/</link>
+      <link>https://axguo.github.io/explorations/polanimations/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/polanimations/</guid>
+      <guid>https://axguo.github.io/explorations/polanimations/</guid>
       <description>Part of a research effort guided by Ticha Sethapakdi Polanimation explores how polarizers can be used as a passive display technology. The goal of Polanimation is to develop a design tool and fabrication process that allows users to create animated displays that take advantage of this effect. Polarizers are optical filters that allow only specific wavelengths of light to pass through. An interesting effect occurs when you place one polarizer in front of another: depending on the relative angles of the two polarizers, the opacity of the overlapping region changes.</description>
     </item>
     
     <item>
       <title>Chalk of the Day</title>
-      <link>https://aliciaguo.com/explorations/chalk/</link>
+      <link>https://axguo.github.io/explorations/chalk/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/chalk/</guid>
+      <guid>https://axguo.github.io/explorations/chalk/</guid>
       <description> Daily chalk lettering in the Ray and Maria Stata Center. Check out our work on instagram. Coverage by MIT News: Drawing daily doodles: Chalk of the Day brightens MIT    </description>
     </item>
     
     <item>
       <title>Drawing for Designers</title>
-      <link>https://aliciaguo.com/explorations/dfd/</link>
+      <link>https://axguo.github.io/explorations/dfd/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aliciaguo.com/explorations/dfd/</guid>
+      <guid>https://axguo.github.io/explorations/dfd/</guid>
       <description> Sketches from MIT&#39;s Drawing for Designers studio class. Studies in movement, perspective, and lighting. This was the semester interruped by the pandemic, leading to imaginative sketches, blending the real and the remembered. Many sketches were done from my room, adding elements of fantasy to transform the space into a space for speculation.    </description>
     </item>
     
