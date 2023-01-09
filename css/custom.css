@@ -469,3 +469,9 @@ mark {
   border: black solid 1px;
 }
 
+/*  */
+
+.img-caption {
+  font-size: 0.65em;
+  font-weight: 400;
+}
