@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://axguo.github.io/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/tags/art/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/categories/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/tags/learning/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/categories/note/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/notes/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/notes/steal-like-an-artist/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/tags/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/tags/food/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
@@ -14,22 +32,10 @@
     <loc>https://axguo.github.io/tags/living/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axguo.github.io/categories/note/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/notes/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/tags/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://axguo.github.io/notes/uneven_seasoning/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/notes/anyone_can_be_a_dancer/</loc>
-    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/tags/learning/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/notes/do-it-painfully/</loc>
@@ -158,9 +164,6 @@
     <loc>https://axguo.github.io/other/</loc>
     <lastmod>2022-02-03T13:39:08-05:00</lastmod>
     <priority>0</priority>
-  </url><url>
-    <loc>https://axguo.github.io/tags/art/</loc>
-    <lastmod>2022-02-03T13:39:08-05:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/tags/collections/</loc>
     <lastmod>2022-02-03T13:39:08-05:00</lastmod>
