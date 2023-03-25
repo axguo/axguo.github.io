@@ -6,7 +6,17 @@
     <description>Recent content on Alicia Guo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>reflections from a month(ish) of generative sketches</title>
+      <link>https://axguo.github.io/posts/genuary23-reflections/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://axguo.github.io/posts/genuary23-reflections/</guid>
+      <description>Check out the sketches :)
+Some thoughts on a month(ish) of generative sketches. I hesitate to use the word “generative” anymore because it’s been so overtaken by AI. What I mean here for my works are good old creative coding sketches, turtle graphics vibes and shaders. Pixels that have been handcrafted with care.   Pretty informal compared to my post last year and more of a collection of floating thoughts varying in importance to see if the challenge is worth doing again next year and in what capacity.</description>
+    </item>
+    
     <item>
       <title>steal like an artist</title>
       <link>https://axguo.github.io/notes/steal-like-an-artist/</link>
