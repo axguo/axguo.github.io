@@ -6,7 +6,25 @@
     <description>Recent content in explorations on Alicia Guo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/categories/explorations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/categories/explorations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT Showcase</title>
+      <link>https://axguo.github.io/explorations/mit-showcase/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://axguo.github.io/explorations/mit-showcase/</guid>
+      <description> An interactive installation. Viewers could print out and take home the poems they made with Found Poem.    </description>
+    </item>
+    
+    <item>
+      <title>Notes On Love</title>
+      <link>https://axguo.github.io/explorations/notes-on-love/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://axguo.github.io/explorations/notes-on-love/</guid>
+      <description> A meditation on love. In collaboration with Harvard Conflux group.    </description>
+    </item>
+    
     <item>
       <title>To Be a Poem</title>
       <link>https://axguo.github.io/explorations/to-be-a-poem/</link>
@@ -26,17 +44,6 @@ There&#39;s a bot and a poem too :)
       
       <guid>https://axguo.github.io/explorations/genuary23/</guid>
       <description> View all sketches here.  blog post about the process of making these daily sketches. -- Reflection post coming soon. Daily creative sketches made using p5js following the prompts for January 2023. The focus for this month was learning and developing sketches to turn into larger art pieces later. You can play with them and re-generate your own unique sketch!  some favorites (check out the rest!) parametric blooms  more moiré  drunk thumbprint  wonderland colored contacts   </description>
-    </item>
-    
-    <item>
-      <title>100</title>
-      <link>https://axguo.github.io/explorations/design-100/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://axguo.github.io/explorations/design-100/</guid>
-      <description> Do something 100 times. Then do it again. And again.
-100 rectangles x 3 iterations.
-Each new rectangle begins at the center of the previous, with the direction randomly chosen.     </description>
     </item>
     
     <item>
@@ -115,21 +122,32 @@ Tree rings can tell us a lot about the passing of time, their shapes and thickne
     </item>
     
     <item>
-      <title>Chalk of the Day</title>
-      <link>https://axguo.github.io/explorations/chalk/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://axguo.github.io/explorations/chalk/</guid>
-      <description> Daily chalk lettering in the Ray and Maria Stata Center. Check out our work on instagram. Coverage by MIT News: Drawing daily doodles: Chalk of the Day brightens MIT    </description>
-    </item>
-    
-    <item>
       <title>Drawing for Designers</title>
       <link>https://axguo.github.io/explorations/dfd/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://axguo.github.io/explorations/dfd/</guid>
       <description> Sketches from MIT&#39;s Drawing for Designers studio class. Studies in movement, perspective, and lighting. This was the semester interruped by the pandemic, leading to imaginative sketches, blending the real and the remembered. Many sketches were done from my room, adding elements of fantasy to transform the space into a space for speculation.    </description>
+    </item>
+    
+    <item>
+      <title>100</title>
+      <link>https://axguo.github.io/explorations/design-100/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://axguo.github.io/explorations/design-100/</guid>
+      <description> Do something 100 times. Then do it again. And again.
+100 rectangles x 3 iterations.
+Each new rectangle begins at the center of the previous, with the direction randomly chosen.     </description>
+    </item>
+    
+    <item>
+      <title>Chalk of the Day</title>
+      <link>https://axguo.github.io/explorations/chalk/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://axguo.github.io/explorations/chalk/</guid>
+      <description> Daily chalk lettering in the Ray and Maria Stata Center. Check out our work on instagram. Coverage by MIT News: Drawing daily doodles: Chalk of the Day brightens MIT    </description>
     </item>
     
   </channel>
