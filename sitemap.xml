@@ -3,10 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://axguo.github.io/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/tags/art/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/categories/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/notes/turrell/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/categories/note/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/notes/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/tags/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/explorations/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
@@ -35,12 +50,6 @@
     <loc>https://axguo.github.io/posts/to-be-something/</loc>
     <lastmod>2023-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axguo.github.io/tags/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/tags/art/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://axguo.github.io/tags/generative-art/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,12 +66,6 @@
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/tags/learning/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/categories/note/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/notes/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/notes/steal-like-an-artist/</loc>
