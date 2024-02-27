@@ -264,6 +264,7 @@ nav.navigation a.button {
 .sidenote {
   font-size: 80%;
   position: relative;
+  padding: 10px;
 }
 /* Wide viewport */
 @media (min-width: 1200px) {
@@ -288,7 +289,7 @@ nav.navigation a.button {
 
     width: 100%;
     margin: 1rem 0;
-    padding-left: 15%;
+    padding-left: 10%;
   }
 }
 

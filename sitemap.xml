@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://axguo.github.io/</loc>
-    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+    <loc>https://axguo.github.io/posts/world-expanding/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axguo.github.io/tags/art/</loc>
-    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+    <loc>https://axguo.github.io/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/categories/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/categories/post/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/posts/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/tags/reflection/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/categories/reflection/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/tags/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/tags/update/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axguo.github.io/tags/art/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/notes/turrell/</loc>
@@ -18,9 +39,6 @@
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/notes/</loc>
-    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/tags/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/explorations/</loc>
@@ -41,22 +59,10 @@
     <loc>https://axguo.github.io/categories/poetry/</loc>
     <lastmod>2023-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axguo.github.io/categories/post/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/posts/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://axguo.github.io/posts/to-be-something/</loc>
     <lastmod>2023-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/tags/generative-art/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/tags/reflection/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/categories/reflection/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/posts/genuary23-reflections/</loc>
@@ -171,9 +177,6 @@
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/posts/feb22/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axguo.github.io/tags/update/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axguo.github.io/tags/books/</loc>
