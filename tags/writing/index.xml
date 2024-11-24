@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>writing on Alicia Guo</title>
+    <title>Writing on Alicia Guo</title>
     <link>https://axguo.github.io/tags/writing/</link>
-    <description>Recent content in writing on Alicia Guo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Writing on Alicia Guo</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://axguo.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>what if writing was...</title>
       <link>https://axguo.github.io/posts/writing/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/posts/writing/</guid>
-      <description>a map To begin with intentions is terribly important — by setting intentions for my writing, I see myself as marking the landscapes and the boundaries of the territory that I am embarking into. To set my intentions is to attempt to create the map of my mind as I know it now — undoubtedly incomplete and fated to be rearranged and re-rearranged, but it will be a starting point because no one begins with a blank map.</description>
+      <description>&lt;h2 id=&#34;a-map&#34;&gt;a map &lt;a href=&#34;#a-map&#34; class=&#34;anchor&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To begin with intentions is terribly important — by setting intentions for my writing, I see myself as marking the landscapes and the boundaries of the territory that I am embarking into. To set my intentions is to attempt to create the map of my mind as I know it now — undoubtedly incomplete and fated to be rearranged and re-rearranged, but it will be a starting point because no one begins with a blank map. We all have copied bits and pieces from others, imitating and making up geographies from everyone we have ever met or read. The making of my map consists of conversations under late night kitchen lights describing the contours of a road that resembles friendship and opinions passed around through so many mouths that I wonder if the shape of the conclusion I have received on some political matter that I know nothing about even resembles the original. It feels like playing a long game of picture telephone, passing pieces of drawings around to be mimicked where the entire world is participating and the end result is something horrifically, comically inaccurate and distorted.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

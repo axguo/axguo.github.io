@@ -1,52 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reflection on Alicia Guo</title>
+    <title>Reflection on Alicia Guo</title>
     <link>https://axguo.github.io/categories/reflection/</link>
-    <description>Recent content in reflection on Alicia Guo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Reflection on Alicia Guo</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/categories/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://axguo.github.io/categories/reflection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023: some world expanding moments</title>
       <link>https://axguo.github.io/posts/world-expanding/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/posts/world-expanding/</guid>
-      <description>#single {font-family: &#34;Spectral&#34;, serif; font-weight: 300; font-size: 1.2em;} The phrase I keep coming back to this year is ✨ world-expanding. ✨ It applies to experiences, cities, people, and even the sky. When I see someone do that crazy something/live in a way that I didn’t even know was possible, it feels like my world has expanded: the possibility space for living has just grown that much bigger. This was written as a letter to a small group of friends but I wanted to share.</description>
+      <description>&lt;style&gt;#single {font-family: &#34;Spectral&#34;, serif; font-weight: 300; font-size: 1.2em;}&lt;/style&gt;&#xA;&#xA;&lt;p&gt;The phrase I keep coming back to this year is ✨ &lt;em&gt;world-expanding.&lt;/em&gt; ✨ It applies to experiences, cities, people, and even the sky. When I see someone do that crazy something/live in a way that I didn’t even know was possible, it feels like my world has expanded: the possibility space for living has just grown that much bigger. &#xA;&#xA;&lt;span class=&#34;sidenote-number&#34;&gt;&#xA;  &lt;small class=&#34;sidenote&#34;&gt;&#xA;    This was written as a letter to a small group of friends but I wanted to share. Original doc &lt;a href=&#34;https://docs.google.com/document/d/117GOj73CKeGTEwQpYVC51YTQec10_GnwYUqF9oU8iPA/edit?usp=sharing&#34;&gt;here&lt;/a&gt;. &#xA;  &lt;/small&gt;&#xA;&lt;/span&gt;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>reflections from a month(ish) of generative sketches</title>
       <link>https://axguo.github.io/posts/genuary23-reflections/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/posts/genuary23-reflections/</guid>
-      <description>Check out the sketches :)
-Some thoughts on a month(ish) of generative sketches. I hesitate to use the word “generative” anymore because it’s been so overtaken by AI. What I mean here for my works are good old creative coding sketches, turtle graphics vibes and shaders. Pixels that have been handcrafted with care.   Pretty informal compared to my post last year and more of a collection of floating thoughts varying in importance to see if the challenge is worth doing again next year and in what capacity.</description>
+      <description>&lt;p&gt;&lt;em&gt;Check out the &lt;a href=&#34;https://www.aliciaguo.com/genuary2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sketches&lt;/a&gt; :)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some thoughts on a month(ish) of generative sketches. &#xA;&#xA;&lt;span class=&#34;sidenote-number&#34;&gt;&#xA;  &lt;small class=&#34;sidenote&#34;&gt;&#xA;    I hesitate to use the word “generative” anymore because it’s been so overtaken by AI. What I mean here for my works are good old creative coding sketches, turtle graphics vibes and shaders. Pixels that have been handcrafted with care.&#xA;  &lt;/small&gt;&#xA;&lt;/span&gt;&#xA; Pretty informal compared to my &lt;a href=&#34;https://www.aliciaguo.com/posts/dailysketch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post last year&lt;/a&gt; and more of a collection of floating thoughts varying in importance to see if the challenge is worth doing again next year and in what capacity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>on daily generation and planting seeds</title>
       <link>https://axguo.github.io/posts/dailysketch/</link>
       <pubDate>Thu, 03 Feb 2022 13:39:08 -0500</pubDate>
-      
       <guid>https://axguo.github.io/posts/dailysketch/</guid>
-      <description>a reflection on a month-ish of daily-ish sketches and the seeds that they nourished - check them out here 🤗
-    On what it means to continue creating art1:
- &amp;ldquo;&amp;hellip;it means leaving some loose thread, some unresolved issue, to carry forward and explore in the next piece&amp;hellip;it means always carrying within you the seed crystal for your next destination.&amp;rdquo;
-  The First Seed Sometime around October, I participated with some friends in a coding cypher as part of a collaboration between MIT and Lupe Fiasco where we had the creative freedom to create pretty much anything artistic from a very vague prompt.</description>
+      <description>&lt;p&gt;&lt;em&gt;a reflection on a month-ish of daily-ish sketches and the seeds that they nourished -&#xA;check them out &lt;a href=&#34;https://www.aliciaguo.com/daily-sketch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; 🤗&lt;/em&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div&gt;&#xA;&lt;img src=&#34;https://axguo.github.io/images/posts/site1.png&#34; alt=&#34;sketches on website&#34; style=&#34;width: 49%;&#34;/&gt; &#xA;&lt;img src=&#34;https://axguo.github.io/images/posts/site2.png&#34; alt=&#34;sketches on website&#34; style=&#34;width: 49%;&#34;/&gt; &#xA;&lt;/div&gt; &lt;div&gt;&#xA;&lt;img src=&#34;https://axguo.github.io/images/posts/site4.png&#34; alt=&#34;sketches on website&#34; style=&#34;width: 49%;&#34;/&gt; &#xA;&lt;img src=&#34;https://axguo.github.io/images/posts/site3.png&#34; alt=&#34;sketches on website&#34; style=&#34;width: 49%;&#34;/&gt; &#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;On what it means to continue creating art&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;&amp;hellip;it means leaving some loose thread, some unresolved issue, to carry forward and explore in the next piece&amp;hellip;it means always carrying within you the seed crystal for your next destination.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-first-seed&#34;&gt;The First Seed &lt;a href=&#34;#the-first-seed&#34; class=&#34;anchor&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Sometime around October, I participated with some friends in a &lt;a href=&#34;https://www.flickr.com/photos/artsatmit/sets/72157720043991878/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coding cypher&lt;/a&gt; as part of  a collaboration between MIT and Lupe Fiasco where we had the creative freedom to create pretty much anything artistic from a very vague prompt. &amp;ldquo;Cyphers flow freely between diverse performers who improvise their words, sounds, or movements to create a complex matrix of sharing,&amp;rdquo; &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; and our piece was an ambiguous improvised mixture of generative art, AI, and rapping. The paper-plate title lovingly and roastingly bestowed upon us was &amp;ldquo;most ambitious&amp;rdquo; (with ambitions not reached). I felt a little disappointed by my inability to realize my mind&amp;rsquo;s fantastical blueprints with code, believing that I would be able to generate the art I envisioned. I labeled myself as a generative artist, but created very little. The question I asked then and still am asking myself: what would my life be like if I acted like I cared about the things I said I did? As an exercise partially aimed at becoming better at manipulating creative code and partially just to prove to myself that I can keep up with an art habit, I challenged myself to do daily generative sketches.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>what is art but a hope and a question?</title>
       <link>https://axguo.github.io/posts/art/</link>
       <pubDate>Thu, 03 Feb 2022 13:39:08 -0500</pubDate>
-      
       <guid>https://axguo.github.io/posts/art/</guid>
-      <description>a loose weaving of thoughts on (my) art and where I find myself in the creative ecosystem
-When asking myself why I create art, an incomplete but true answer would be because it’s what I’ve always done. In the moments that I am incapable of stringing together the right words, I turn to art. It’s how I find myself dealing with feelings - both those that I don’t want and those that I would like to preserve and hold close to take with me wherever I go.</description>
+      <description>&lt;p&gt;&lt;em&gt;a loose weaving of thoughts on (my) art and where I find myself in the creative ecosystem&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;When asking myself why I create art, an incomplete but true answer would be because it’s what I’ve always done. In the moments that I am incapable of stringing together the right words, I turn to art. It’s how I find myself dealing with feelings - both those that I don’t want and those that I would like to preserve and hold close to take with me wherever I go. It’s a deeply personal act, whether or not that is my intention. I believe that is because it is impossible to hide from your creations, that everything ends up on display and it is entirely you, right now, in the present. What is reflected is who I am, not who I was or who I wish to be. She is the person with whom I engage and spend my time with. I can no more produce the same pieces as I did a year ago than I can create something that I’m not ready to make.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

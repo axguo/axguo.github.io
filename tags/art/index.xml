@@ -1,61 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>art on Alicia Guo</title>
+    <title>Art on Alicia Guo</title>
     <link>https://axguo.github.io/tags/art/</link>
-    <description>Recent content in art on Alicia Guo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Art on Alicia Guo</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://axguo.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>James Turrell</title>
       <link>https://axguo.github.io/notes/turrell/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/notes/turrell/</guid>
-      <description>It’s been over a week and I’m still thinking about James Turrell. The feeling of being in that room and seeing infinite space within the bounds that I know exist. The glow of the lights. The smoothness. The not knowing. The ethereal effect his pieces have with light sneaks into my thoughts in the form of questions. I remember standing in that room and wondering if my art could ever make someone feel like this.</description>
+      <description>&lt;p&gt;It’s been over a week and I’m still thinking about James Turrell. The feeling of being in that room and seeing infinite space within the bounds that I know exist. The glow of the lights. The smoothness. The not knowing. The ethereal effect his pieces have with light sneaks into my thoughts in the form of questions. I remember standing in that room and wondering if my art could ever make someone feel like this. What materials can I use? What technologies are still mysterious enough to elicit wonder through not knowing how they work? What was most fun was trying to reverse engineer his effects with friends. What direction can I explore deeply enough in? What group of people can I find? Turrell had a group to experiment with. I love that with Turrell’s works I feel like I could sit there for hours &amp;ndash; it’s a feeling I actively seek to foster in my web-based pieces, and something I only just now realized I could aim for in real life too.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>reflections from a month(ish) of generative sketches</title>
       <link>https://axguo.github.io/posts/genuary23-reflections/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/posts/genuary23-reflections/</guid>
-      <description>Check out the sketches :)
-Some thoughts on a month(ish) of generative sketches. I hesitate to use the word “generative” anymore because it’s been so overtaken by AI. What I mean here for my works are good old creative coding sketches, turtle graphics vibes and shaders. Pixels that have been handcrafted with care.   Pretty informal compared to my post last year and more of a collection of floating thoughts varying in importance to see if the challenge is worth doing again next year and in what capacity.</description>
+      <description>&lt;p&gt;&lt;em&gt;Check out the &lt;a href=&#34;https://www.aliciaguo.com/genuary2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sketches&lt;/a&gt; :)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some thoughts on a month(ish) of generative sketches. &#xA;&#xA;&lt;span class=&#34;sidenote-number&#34;&gt;&#xA;  &lt;small class=&#34;sidenote&#34;&gt;&#xA;    I hesitate to use the word “generative” anymore because it’s been so overtaken by AI. What I mean here for my works are good old creative coding sketches, turtle graphics vibes and shaders. Pixels that have been handcrafted with care.&#xA;  &lt;/small&gt;&#xA;&lt;/span&gt;&#xA; Pretty informal compared to my &lt;a href=&#34;https://www.aliciaguo.com/posts/dailysketch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post last year&lt;/a&gt; and more of a collection of floating thoughts varying in importance to see if the challenge is worth doing again next year and in what capacity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>steal like an artist</title>
       <link>https://axguo.github.io/notes/steal-like-an-artist/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/notes/steal-like-an-artist/</guid>
-      <description>Steal like an artist is one of my favorite phrases to whisper to myself when I am sitting with indecision over a new project, to say that copying can lead to imitation which can lead to emulation and there is where new art is born. Stealing like an artist means being able to stitch together faint whiffs of past lives into new ones. It seems to me that there are two ways to begin at something.</description>
+      <description>&lt;p&gt;&lt;em&gt;Steal like an artist&lt;/em&gt; is one of my favorite phrases to whisper to myself when I am sitting with indecision over a new project, to say that copying can lead to imitation which can lead to emulation and there is where new art is born. Stealing like an artist means being able to stitch together faint whiffs of past lives into new ones. It seems to me that there are two ways to begin at something. Either being a direct student (ex: following tutorials) or copying (attempting to recreate). The best curriculum is a combination of both and I’m thankful for my first creative coding class taught by Zach Lieberman (amazing artist and prof!) called Recreating the Past. Our whole class was focused on examining artists’ past works and selecting a few to code up while giving us the general tools to do so. These art pieces we tried to recreate consisted not just of digital artifacts, but animations, interactive installations, sketches, and textiles. It was a blessing to be given the permission to forget trying to be original in content and focus on the process. The destination was given and we were tasked with mapping out the journey and oddly enough there was a feeling of something resembling originality in this piecing together of existing work.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>on daily generation and planting seeds</title>
       <link>https://axguo.github.io/posts/dailysketch/</link>
       <pubDate>Thu, 03 Feb 2022 13:39:08 -0500</pubDate>
-      
       <guid>https://axguo.github.io/posts/dailysketch/</guid>
-      <description>a reflection on a month-ish of daily-ish sketches and the seeds that they nourished - check them out here 🤗
-    On what it means to continue creating art1:
- &amp;ldquo;&amp;hellip;it means leaving some loose thread, some unresolved issue, to carry forward and explore in the next piece&amp;hellip;it means always carrying within you the seed crystal for your next destination.&amp;rdquo;
-  The First Seed Sometime around October, I participated with some friends in a coding cypher as part of a collaboration between MIT and Lupe Fiasco where we had the creative freedom to create pretty much anything artistic from a very vague prompt.</description>
+      <description>&lt;p&gt;&lt;em&gt;a reflection on a month-ish of daily-ish sketches and the seeds that they nourished -&#xA;check them out &lt;a href=&#34;https://www.aliciaguo.com/daily-sketch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; 🤗&lt;/em&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div&gt;&#xA;&lt;img src=&#34;https://axguo.github.io/images/posts/site1.png&#34; alt=&#34;sketches on website&#34; style=&#34;width: 49%;&#34;/&gt; &#xA;&lt;img src=&#34;https://axguo.github.io/images/posts/site2.png&#34; alt=&#34;sketches on website&#34; style=&#34;width: 49%;&#34;/&gt; &#xA;&lt;/div&gt; &lt;div&gt;&#xA;&lt;img src=&#34;https://axguo.github.io/images/posts/site4.png&#34; alt=&#34;sketches on website&#34; style=&#34;width: 49%;&#34;/&gt; &#xA;&lt;img src=&#34;https://axguo.github.io/images/posts/site3.png&#34; alt=&#34;sketches on website&#34; style=&#34;width: 49%;&#34;/&gt; &#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;On what it means to continue creating art&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;&amp;hellip;it means leaving some loose thread, some unresolved issue, to carry forward and explore in the next piece&amp;hellip;it means always carrying within you the seed crystal for your next destination.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-first-seed&#34;&gt;The First Seed &lt;a href=&#34;#the-first-seed&#34; class=&#34;anchor&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Sometime around October, I participated with some friends in a &lt;a href=&#34;https://www.flickr.com/photos/artsatmit/sets/72157720043991878/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coding cypher&lt;/a&gt; as part of  a collaboration between MIT and Lupe Fiasco where we had the creative freedom to create pretty much anything artistic from a very vague prompt. &amp;ldquo;Cyphers flow freely between diverse performers who improvise their words, sounds, or movements to create a complex matrix of sharing,&amp;rdquo; &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; and our piece was an ambiguous improvised mixture of generative art, AI, and rapping. The paper-plate title lovingly and roastingly bestowed upon us was &amp;ldquo;most ambitious&amp;rdquo; (with ambitions not reached). I felt a little disappointed by my inability to realize my mind&amp;rsquo;s fantastical blueprints with code, believing that I would be able to generate the art I envisioned. I labeled myself as a generative artist, but created very little. The question I asked then and still am asking myself: what would my life be like if I acted like I cared about the things I said I did? As an exercise partially aimed at becoming better at manipulating creative code and partially just to prove to myself that I can keep up with an art habit, I challenged myself to do daily generative sketches.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>what is art but a hope and a question?</title>
       <link>https://axguo.github.io/posts/art/</link>
       <pubDate>Thu, 03 Feb 2022 13:39:08 -0500</pubDate>
-      
       <guid>https://axguo.github.io/posts/art/</guid>
-      <description>a loose weaving of thoughts on (my) art and where I find myself in the creative ecosystem
-When asking myself why I create art, an incomplete but true answer would be because it’s what I’ve always done. In the moments that I am incapable of stringing together the right words, I turn to art. It’s how I find myself dealing with feelings - both those that I don’t want and those that I would like to preserve and hold close to take with me wherever I go.</description>
+      <description>&lt;p&gt;&lt;em&gt;a loose weaving of thoughts on (my) art and where I find myself in the creative ecosystem&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;When asking myself why I create art, an incomplete but true answer would be because it’s what I’ve always done. In the moments that I am incapable of stringing together the right words, I turn to art. It’s how I find myself dealing with feelings - both those that I don’t want and those that I would like to preserve and hold close to take with me wherever I go. It’s a deeply personal act, whether or not that is my intention. I believe that is because it is impossible to hide from your creations, that everything ends up on display and it is entirely you, right now, in the present. What is reflected is who I am, not who I was or who I wish to be. She is the person with whom I engage and spend my time with. I can no more produce the same pieces as I did a year ago than I can create something that I’m not ready to make.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

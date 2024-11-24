@@ -4,98 +4,79 @@
     <title>Categories on Alicia Guo</title>
     <link>https://axguo.github.io/categories/</link>
     <description>Recent content in Categories on Alicia Guo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://axguo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>note</title>
-      <link>https://axguo.github.io/categories/note/</link>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://axguo.github.io/categories/note/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post</title>
-      <link>https://axguo.github.io/categories/post/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://axguo.github.io/categories/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reflection</title>
-      <link>https://axguo.github.io/categories/reflection/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://axguo.github.io/categories/reflection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>explorations</title>
+      <title>Explorations</title>
       <link>https://axguo.github.io/categories/explorations/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://axguo.github.io/categories/explorations/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>poetry</title>
+      <title>Note</title>
+      <link>https://axguo.github.io/categories/note/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://axguo.github.io/categories/note/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post</title>
+      <link>https://axguo.github.io/categories/post/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://axguo.github.io/categories/post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflection</title>
+      <link>https://axguo.github.io/categories/reflection/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://axguo.github.io/categories/reflection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poetry</title>
       <link>https://axguo.github.io/categories/poetry/</link>
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/categories/poetry/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>journal</title>
+      <title>Journal</title>
       <link>https://axguo.github.io/categories/journal/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/categories/journal/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>experimental</title>
+      <title>Experimental</title>
       <link>https://axguo.github.io/categories/experimental/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/categories/experimental/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>misc</title>
+      <title>Misc</title>
       <link>https://axguo.github.io/categories/misc/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/categories/misc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>draft</title>
+      <title>Draft</title>
       <link>https://axguo.github.io/categories/draft/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/categories/draft/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ongoing</title>
+      <title>Ongoing</title>
       <link>https://axguo.github.io/categories/ongoing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/categories/ongoing/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

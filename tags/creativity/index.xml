@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>creativity on Alicia Guo</title>
+    <title>Creativity on Alicia Guo</title>
     <link>https://axguo.github.io/tags/creativity/</link>
-    <description>Recent content in creativity on Alicia Guo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Creativity on Alicia Guo</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Feb 2022 13:39:08 -0500</lastBuildDate><atom:link href="https://axguo.github.io/tags/creativity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 13:39:08 -0500</lastBuildDate>
+    <atom:link href="https://axguo.github.io/tags/creativity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>what is art but a hope and a question?</title>
       <link>https://axguo.github.io/posts/art/</link>
       <pubDate>Thu, 03 Feb 2022 13:39:08 -0500</pubDate>
-      
       <guid>https://axguo.github.io/posts/art/</guid>
-      <description>a loose weaving of thoughts on (my) art and where I find myself in the creative ecosystem
-When asking myself why I create art, an incomplete but true answer would be because it’s what I’ve always done. In the moments that I am incapable of stringing together the right words, I turn to art. It’s how I find myself dealing with feelings - both those that I don’t want and those that I would like to preserve and hold close to take with me wherever I go.</description>
+      <description>&lt;p&gt;&lt;em&gt;a loose weaving of thoughts on (my) art and where I find myself in the creative ecosystem&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;When asking myself why I create art, an incomplete but true answer would be because it’s what I’ve always done. In the moments that I am incapable of stringing together the right words, I turn to art. It’s how I find myself dealing with feelings - both those that I don’t want and those that I would like to preserve and hold close to take with me wherever I go. It’s a deeply personal act, whether or not that is my intention. I believe that is because it is impossible to hide from your creations, that everything ends up on display and it is entirely you, right now, in the present. What is reflected is who I am, not who I was or who I wish to be. She is the person with whom I engage and spend my time with. I can no more produce the same pieces as I did a year ago than I can create something that I’m not ready to make.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

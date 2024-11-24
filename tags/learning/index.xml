@@ -1,49 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>learning on Alicia Guo</title>
+    <title>Learning on Alicia Guo</title>
     <link>https://axguo.github.io/tags/learning/</link>
-    <description>Recent content in learning on Alicia Guo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Learning on Alicia Guo</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://axguo.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>things I do daily [live]</title>
       <link>https://axguo.github.io/notes/daily/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/notes/daily/</guid>
-      <description>These are the things I&amp;rsquo;ve committed to or keep coming back to. I wonder if these distract from bigger projects, after all, if I keep adding these small dailies my todos will eventually be filled but as for now I will keep these that bring me joy.
- morning pages: 3 page stream of consciousness journaling in the mornings painting a snippet of the sky: the gray weather depressed me so I decided to paint it every day.</description>
+      <description>&lt;p&gt;These are the things I&amp;rsquo;ve committed to or keep coming back to. I wonder if these distract from bigger projects, after all, if I keep adding these small dailies my todos will eventually be filled but as for now I will keep these that bring me joy.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.aliciaguo.com/morning-pages/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;morning pages&lt;/a&gt;&lt;/strong&gt;: 3 page stream of consciousness journaling in the mornings&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.instagram.com/patchwork.letters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;painting a snippet of the sky&lt;/a&gt;&lt;/strong&gt;: the gray weather depressed me so I decided to paint it every day. now I notice so much in the sky that I&amp;rsquo;m endlessly fascinated regardless of the weather.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vShqauv5ofA0p5P-v_X-UnV4MlW9fudWjCu-VLTyNuV4dNIsScjZ6zB4HOLahLTtQ_WRRjUWNwwVkzn/pubhtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a poem a day keeps the blues at bay&lt;/a&gt;&lt;/strong&gt;: it&amp;rsquo;s surprising how much five minutes a day can ground me.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;20 min dance session at night&lt;/strong&gt;: I wiggle and wave like a crazy person before I sleep. this is a pillar of my happiness.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;seasonal&#34;&gt;seasonal &lt;a href=&#34;#seasonal&#34; class=&#34;anchor&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://hyperlink.academy/s/mangotango/s/77pAGMrlZ2JMZgde4Zr6Ov/paper%20%26%20thread&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper &amp;amp; thread [march 2024]&lt;/a&gt;&lt;/strong&gt;: daily handmade projects on Hyperlink Academy&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>steal like an artist</title>
       <link>https://axguo.github.io/notes/steal-like-an-artist/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/notes/steal-like-an-artist/</guid>
-      <description>Steal like an artist is one of my favorite phrases to whisper to myself when I am sitting with indecision over a new project, to say that copying can lead to imitation which can lead to emulation and there is where new art is born. Stealing like an artist means being able to stitch together faint whiffs of past lives into new ones. It seems to me that there are two ways to begin at something.</description>
+      <description>&lt;p&gt;&lt;em&gt;Steal like an artist&lt;/em&gt; is one of my favorite phrases to whisper to myself when I am sitting with indecision over a new project, to say that copying can lead to imitation which can lead to emulation and there is where new art is born. Stealing like an artist means being able to stitch together faint whiffs of past lives into new ones. It seems to me that there are two ways to begin at something. Either being a direct student (ex: following tutorials) or copying (attempting to recreate). The best curriculum is a combination of both and I’m thankful for my first creative coding class taught by Zach Lieberman (amazing artist and prof!) called Recreating the Past. Our whole class was focused on examining artists’ past works and selecting a few to code up while giving us the general tools to do so. These art pieces we tried to recreate consisted not just of digital artifacts, but animations, interactive installations, sketches, and textiles. It was a blessing to be given the permission to forget trying to be original in content and focus on the process. The destination was given and we were tasked with mapping out the journey and oddly enough there was a feeling of something resembling originality in this piecing together of existing work.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>anyone can be a dancer</title>
       <link>https://axguo.github.io/notes/anyone_can_be_a_dancer/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/notes/anyone_can_be_a_dancer/</guid>
-      <description>A friend once told me that there must be something special about human faces that makes them so hard to draw — a certain elusive quality that comes from the ineffable experience of being human. This took me by surprise because I live with an extremely strong belief that it only takes practice, and relatively little at that, to obtain the skills necessary to draw a reasonable human face. It’s true that most attempts at facial features are awful, more resembling elongated emojis than facial features but I think that’s only because we take our faces for granted.</description>
+      <description>&lt;p&gt;A friend once told me that there must be something special about human faces that makes them so hard to draw — a certain elusive quality that comes from the ineffable experience of being human. This took me by surprise because I live with an extremely strong belief that it only takes practice, and relatively little at that, to obtain the skills necessary to draw a reasonable human face. It’s true that most attempts at facial features are awful, more resembling elongated emojis than facial features but I think that’s only because we take our faces for granted. How often do we really notice individual shapes that make up our face, the new freckles from the sun or the path of wrinkles that surface from a smile? Can you conjure up the contours of your friend’s face the same way you can a rolling chair or a head of broccoli? It’s impossible to draw what you can’t see. One of my favorite classes in undergrad was a studio drawing class, and within the first two classes totalling six hours students went from alien scribbles to stunningly accurate sketches. It was one of the most formative “you can do anything with enough practice” lessons I witnessed. The difference was that they weren’t engaging in brute forcing their practice. Our prof consistently stressed attention to detail and often would ask us to verbalize our observations when things seemed off, making them easier to translate to paper. The results were by no means close to photographic, but in a way they were better. There was a raw charm to the character imbued by the individual artists who had learned to direct their observations but had not yet succumbed to paralyzing intense scrutinizing of their own work. So, yes, I believe that anyone can learn to draw a face within a day with the right instruction. Today I told a dancer that I’m not great at dancing (though I do enjoy it) and she responded with the good old “anyone can learn to dance with enough practice!” And it hit me that she probably sees dance the same way I see art. The trick to leveling up fast in drawing is to learn how to observe. I wonder what is for dance (I’m going to ask next time I see her) and what it is for all of the other areas of study, the ones that can be practiced. I&amp;rsquo;m grateful that I can understand this deeply through art. I imagine it takes a bit more time for a subject such as physics or glassblowing. The seed to be an artist is something that everyone has been doing to different degrees their entire lives! We observe so many details every single day.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>I can do it, painfully</title>
       <link>https://axguo.github.io/notes/do-it-painfully/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/notes/do-it-painfully/</guid>
-      <description>Something wonderful has changed here. I feel so full of ideas, sending out pitches instead of finished work. Today I reached out to strangers (non-coders) asking if they wanted to collaborate on unspecified projects without knowing if I’d be able to help bring us to reach a shared vision. I felt giddy and sophisticated, like an artist about to graduate from faking it to making it.
-A year ago I would have balked at the thought of offering to create something seemingly magical and impossible without a hint of a plan.</description>
+      <description>&lt;p&gt;Something wonderful has changed here. I feel so full of ideas, sending out pitches instead of finished work. Today I reached out to strangers (non-coders) asking if they wanted to collaborate on unspecified projects without knowing if I’d be able to help bring us to reach a shared vision. I felt giddy and sophisticated, like an artist about to graduate from faking it to making it.&lt;/p&gt;&#xA;&lt;p&gt;A year ago I would have balked at the thought of offering to create something seemingly magical and impossible without a hint of a plan. I had just as many ideas, less formed, more wobbly and ungrounded, floating within the realm of &lt;a href=&#34;https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;magicians&lt;/a&gt;. A pitch was a proposal and a promise. A promise to deliver if chosen and I didn’t think I could. I’ve learned a few things since then, have since learned to have confidence in myself that &lt;em&gt;I can figure it out, though maybe with a lot of pain.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

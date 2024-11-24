@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>draft on Alicia Guo</title>
+    <title>Draft on Alicia Guo</title>
     <link>https://axguo.github.io/categories/draft/</link>
-    <description>Recent content in draft on Alicia Guo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Draft on Alicia Guo</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://axguo.github.io/categories/draft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://axguo.github.io/categories/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[draft] mythical spaces, or practicing magic as a topophil</title>
       <link>https://axguo.github.io/posts/places/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://axguo.github.io/posts/places/</guid>
-      <description>unfinished first draft to be workshopped [VERY ROUGH :&#39;)]
-There&amp;rsquo;s a mythical beast that few have seen. It is dreamy and beguiling and offers promises of dreams come true. Some have claimed to reap the benefits of its powers, others deny its existence. What is clear is that recently sightings have been low - it seems to have disappeared, if it ever even existed. Many have hunted and still continue to hunt for this elusive creature in hopes of gaining its secrets: the fabled formula for work-life balance.</description>
+      <description>&lt;p&gt;&lt;em&gt;unfinished first draft to be workshopped [VERY ROUGH :&amp;rsquo;)]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;There&amp;rsquo;s a mythical beast that few have seen. It is dreamy and beguiling and offers promises of dreams come true. Some have claimed to reap the benefits of its powers, others deny its existence. What is clear is that recently sightings have been low -  it seems to have disappeared, if it ever even existed. Many have hunted and still continue to hunt for this elusive creature in hopes of gaining its secrets: the fabled formula for work-life balance.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
